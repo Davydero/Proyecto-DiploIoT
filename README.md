@@ -5,3 +5,4 @@ This repository contains the description and scripts implemented for the develop
 </p>
 
 <h2> Working general description </h2>
+![General]!(GeneralDescription.jpg)
