@@ -5,4 +5,4 @@ This repository contains the description and scripts implemented for the develop
 </p>
 
 <h2> Working general description </h2>
-![General!](GeneralDescription.PNG)
+![GeneralDescription](https://user-images.githubusercontent.com/11477020/236908173-d27b71bb-c645-4060-b120-bb983d1a7814.PNG)
